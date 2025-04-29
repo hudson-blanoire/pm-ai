@@ -6,10 +6,11 @@ This project implements a team of AI agents using the [Agno framework](https://d
 
 Watch a demonstration of the agent team in action:
 
-[![Agent Demo Video](media/Xnapper-2025-04-29-16.03.01.png)](media/Program-Management-Agent-Demo-Final.mp4)
-*(Click the image above to view the demo video - `Program-Management-Agent-Demo-Final.mp4`)*
+[![Program Management Agent Demo](media/Xnapper-2025-04-29-16.03.01.png)](https://youtu.be/zXtCTlUYRMY)
 
-**Example Interaction:**
+[Link to Demo Video on YouTube](https://youtu.be/zXtCTlUYRMY)
+
+**Example Interaction Screenshot:**
 
 ![Example Agent Interaction Screenshot](media/Xnapper-2025-04-29-16.03.01.png)
 
