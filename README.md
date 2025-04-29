@@ -8,8 +8,6 @@ Watch a demonstration of the agent team in action:
 
 [![Program Management Agent Demo](http://img.youtube.com/vi/zXtCTlUYRMY/0.jpg)](https://youtu.be/zXtCTlUYRMY)
 
-[Link to Demo Video on YouTube](https://youtu.be/zXtCTlUYRMY)
-
 **Example Interaction Screenshot:**
 
 ![Example Agent Interaction Screenshot](media/Xnapper-2025-04-29-16.03.01.png)
